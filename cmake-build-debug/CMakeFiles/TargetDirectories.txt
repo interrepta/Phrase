@@ -1,0 +1,3 @@
+/home/qwerty891/Dokumenty/projects/c/Phrase/cmake-build-debug/CMakeFiles/Phrase.dir
+/home/qwerty891/Dokumenty/projects/c/Phrase/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qwerty891/Dokumenty/projects/c/Phrase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
